@@ -1,0 +1,29 @@
+body {
+    background: lightblue;
+}
+
+header {
+    background: cyan;
+    min-height: 200px;
+}
+
+header ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+
+header ul li {
+    padding: 10px;
+    border: 2px solid red;
+    margin: 40px;
+}
+
+section {
+    background: white;
+}
+
+footer {
+    background: cyan;
+    min-height: 200px;
+}
